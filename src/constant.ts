@@ -1,0 +1,1 @@
+export const DURATION_PER_CHARACTER = 0.5;
